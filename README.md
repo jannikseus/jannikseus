@@ -1,19 +1,13 @@
-# Hi, I'm Jannik 👋
+## Profile
 
-## 🚀 Profile
+Master’s student (thesis phase), focused on backend and distributed systems, moving toward full-stack.
 
-Master’s student (thesis phase) with a focus on **backend and distributed systems engineering**, expanding into **full-stack development**.
-
-I build **scalable, production-oriented systems** with an emphasis on:
-
-* system design & architecture
-* performance and reliability
-* modular, maintainable codebases
-* practical ML integration
+I build scalable systems with an emphasis on architecture, reliability, and maintainability.
+Interested in combining solid system design with practical ML.
 
 ---
 
-## 🛠 Technical Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
@@ -21,35 +15,33 @@ I build **scalable, production-oriented systems** with an emphasis on:
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes)
 
-**Languages**
 Python • TypeScript • Java
+Docker • Kubernetes
 
-**Backend & Infrastructure**
-Docker • Kubernetes • REST APIs • Microservices
-
-**Engineering Focus**
-Python backends • API design • Data pipelines • Distributed systems • ML-enhanced applications
+Focus: backend systems, APIs, data pipelines, distributed systems, ML integration
 
 ---
 
-## 📄 Thesis
+## Thesis
 
-* Researching: **[Data Drift Detection in Industrial Image Processing systems]**
-* Focus: Data Drift detection on image data, Machine Learning, integration in scalable systems
-* Outcome: Prototype, Benchmarks, Comparison
+Data Drift Detection in Industrial Image Processing Systems
 
----
-
-## 🧠 Engineering Principles
-
-* Design for **scale, failure, and observability**
-* Prefer **explicit, typed, and testable interfaces**
-* Optimize based on **measured bottlenecks**
-* Keep systems **simple, composable, and evolvable**
+* Detecting drift in image-based ML systems
+* Integration into scalable pipelines
+* Prototype + evaluation and comparison
 
 ---
 
-## 📫 Contact
+## Principles
 
-* 🌐 You can find more about me on my [Homepage](https://jannikseus.tech).
-* 💼 Or just text me on [LinkedIn](https://www.linkedin.com/in/jannik-seus).
+* Design for scale and failure
+* Keep systems simple and composable
+* Prefer explicit, typed interfaces
+* Optimize based on measurement
+
+---
+
+## Contact
+
+https://jannikseus.tech
+https://www.linkedin.com/in/jannik-seus
